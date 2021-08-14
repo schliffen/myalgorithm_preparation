@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/paper.dir/main.cpp.o  -o paper 

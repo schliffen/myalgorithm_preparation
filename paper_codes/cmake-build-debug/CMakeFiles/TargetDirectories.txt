@@ -1,0 +1,3 @@
+/home/ali/Projlab/Algorithms/paper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ali/Projlab/Algorithms/paper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ali/Projlab/Algorithms/paper/cmake-build-debug/CMakeFiles/paper.dir
